@@ -1,33 +1,33 @@
 # **Programming-Cs**
 
-### **Język C#**
+### **C#**
 
-## **Opis:**
-Repozytorium Język C# zawiera przykładowe projekty, kod źródłowy i materiały edukacyjne związane z programowaniem w języku C#. C# to język programowania stworzony przez firmę Microsoft, który jest szeroko stosowany do tworzenia aplikacji na platformę .NET. Repozytorium to ma na celu dostarczenie materiałów i przykładów dla programistów, którzy chcą nauczyć się programowania w języku C# lub poszerzyć swoje umiejętności w tym języku.
+## **Description:**
+The C# repository contains sample projects, source code, and learning materials for C# development. C# is a programming language created by Microsoft that is widely used to develop applications for the .NET platform. This repository is intended to provide resources and examples for developers who want to learn or improve their C# programming skills.
 
-## **Struktura Repozytorium:**
-/Projects: W tym folderze znajdują się różne projekty, w których wykorzystuje się język C#. Każdy projekt posiada swój własny folder z opisem i kodem źródłowym.
+## **Repository Structure:**
+/Projects: This folder contains various projects that use C#. Each project has its own folder with description and source code.
 
-/Lab: Tutaj znajdziesz przykładowe skrypty i narzędzia programistyczne napisane w języku C#.
+/Lab: Here you will find sample scripts and development tools written in C#.
 
-/Courses: Ten folder zawiera różnego rodzaju materiały edukacyjne, takie jak podręczniki, tutoriale i artykuły związane z językiem C#.
+/Courses: This folder contains all sorts of learning materials such as manuals, tutorials, and articles related to C#.
 
-## **Jak zacząć:**
-Sklonuj repozytorium na swój lokalny komputer:
+## **How ​​to start:**
+Clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/Programming-Cs.git
 ```
-Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
+Browse available projects, scripts and materials in their respective folders.
 
-Eksperymentuj z kodem źródłowym, analizuj implementacje i ucz się programowania w języku C# na podstawie dostępnych przykładów.
+Experiment with the source code, analyze implementations, and learn C# programming from the available examples.
 
-## **Wymagania systemowe**
-Aby rozpocząć programowanie w języku C#, będziesz potrzebować zainstalowanego środowiska programistycznego. Najpopularniejszym środowiskiem do programowania w C# jest Visual Studio, które możesz pobrać i zainstalować ze strony oficjalnej Visual Studio. Upewnij się, że masz odpowiednie narzędzia zainstalowane przed rozpoczęciem pracy.
+## **System requirements**
+To start developing in C#, you'll need an installed development environment. The most popular C# development environment is Visual Studio, which you can download and install from the Visual Studio official website. Make sure you have the proper tools installed before starting work.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty i przykłady związane z programowaniem w języku C#. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests, or share your own C# projects and examples. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, możesz skontaktować się ze mną poprzez e-mail lub przez platformę GitHub.
+If you have questions or need help, you can contact me via email or GitHub.
 
-## **Licencja**
-Ten projekt jest objęty licencją MIT. Zapraszam do zapoznania się z pełnym tekstem licencji przed korzystaniem z tego repozytorium.
+## **License**
+This project is licensed under the MIT license. Please read the full license text before using this repository.
