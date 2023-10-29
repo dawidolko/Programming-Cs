@@ -1,24 +1,23 @@
-# Projekty w języku C#
+# C# projects
 
-Witaj w repozytorium, które zawiera zbiór projektów programistycznych zrealizowanych w języku C#. Repozytorium to zostało stworzone, aby podzielić się różnorodnymi projektami, które mogą posłużyć jako inspiracja, nauka oraz praktyczne zastosowanie języka C#.
+Welcome to the repository that contains a collection of programming projects implemented in C#. This repository was created to share a variety of projects that can serve as inspiration, learning, and practical application of the C# language.
 
-## O repozytorium
+## About the repository
 
-Repozytorium zawiera różnorodne projekty programistyczne zrealizowane w języku C#. Znajdziesz tutaj zarówno mniejsze projekty, które służą jako dobre przykłady i ćwiczenia, jak również większe projekty, które przedstawiają bardziej zaawansowane zastosowania języka C#.
+The repository contains various programming projects implemented in C#. Here you'll find both smaller projects that serve as good examples and exercises, as well as larger projects that demonstrate more advanced uses of the C# language.
 
-Projekty te obejmują różne dziedziny, takie jak:
+These projects cover various areas such as:
 
-- Aplikacje desktopowe: Tworzenie aplikacji okienkowych z interfejsem użytkownika, obsługa zdarzeń, zarządzanie danymi.
-- Aplikacje webowe: Tworzenie aplikacji internetowych, zarządzanie bazami danych, interakcje z serwerem, tworzenie interfejsów użytkownika.
-- Gry komputerowe: Tworzenie gier w języku C#, implementacja mechaniki gry, grafika, dźwięk, sztuczna inteligencja.
-- Aplikacje mobilne: Tworzenie aplikacji na platformy mobilne, takie jak Android i iOS, wykorzystując język C# i narzędzia takie jak Xamarin.
-- Programowanie sieciowe: Tworzenie klientów i serwerów sieciowych, protokoły komunikacyjne, obsługa żądań i odpowiedzi.
+- Desktop applications: Creating window applications with a user interface, event handling, data management.
+- Web applications: Creating web applications, managing databases, interacting with the server, creating user interfaces.
+- Computer games: Creating games in C#, implementing game mechanics, graphics, sound, artificial intelligence.
+- Mobile Apps: Build apps for mobile platforms such as Android and iOS using C# and tools such as Xamarin.
+- Network programming: Creating network clients and servers, communication protocols, handling requests and responses.
 
-## Jak korzystać z repozytorium
+## How to use the repository
 
-Możesz swobodnie przeglądać dostępne projekty i wybierać te, które Cię interesują. Każdy projekt zawiera opis, instrukcje instalacji i uruchomienia, kod źródłowy oraz niekiedy przykładowe dane lub pliki wynikowe.
+You can freely browse through available projects and choose those that interest you. Each project contains a description, installation and startup instructions, source code and sometimes sample data or result files.
 
-Jeśli jesteś zainteresowany konkretnym projektem, możesz sklonować repozytorium, uruchomić projekt lokalnie na swoim komputerze i eksperymentować z kodem. Możesz również dokonywać modyfikacji, dostosowywać projekty do swoich potrzeb lub tworzyć własne rozszerzenia.
+If you are interested in a specific project, you can clone the repository, run the project locally on your computer and experiment with the code. You can also make modifications, adapt the designs to your needs or create your own extensions.
 
-Zachęcam do udziału w rozwoju repozytorium poprzez dodawanie własnych projektów, zgłaszanie uwag i sugestii, dzielenie się swoimi doświadczeniami oraz współpracę z innymi programistami. Naszym celem jest tworzenie bogatego zbioru projektów i wzajemne dzielenie się wiedzą oraz inspiracją.
-
+I encourage you to participate in the development of the repository by adding your own projects, submitting comments and suggestions, sharing your experiences and collaborating with other programmers. Our goal is to create a rich collection of projects and share knowledge and inspiration.
