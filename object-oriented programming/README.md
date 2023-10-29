@@ -1,22 +1,22 @@
-# Laboratorium Programowania Obiektowego w C#
+# Object-Oriented Programming Lab in C#
 
-Repozytorium to zawiera rozwiązane zadania z laboratorium programowania obiektowego w C# prowadzonego podczas studiów. Znajdziesz tu przykłady, które pomogą zrozumieć kluczowe koncepcje związane z programowaniem obiektowym w języku C#.
+This repository contains solved tasks from the object-oriented programming laboratory in C# conducted during studies. Here you'll find examples to help you understand key concepts related to object-oriented programming in C#.
 
-## Zawartość
+## Contents
 
-- Klasy
-- Dziedziczenie
-- Interfejsy
-- i wiele innych
+- Classes
+- Inheritance
+- Interfaces
+- and many others
 
-## Wykorzystanie
+## Usage
 
-To repozytorium może być użyteczne dla innych studentów studiów informatycznych oraz dla osób uczących się programowania obiektowego w C#.
+This repository may be useful to other computer science students and those learning object-oriented programming in C#.
 
-## Autor
+## Author
 
-Dawid Olko
+David Olko
 
-## Licencja
+## License
 
-Ten projekt jest dostępny na licencji MIT.
+This project is available under the MIT License.
