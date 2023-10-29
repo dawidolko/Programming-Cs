@@ -1,25 +1,25 @@
-# Kolokwium z języka C#
+# C # colloquium
 
-Witaj w repozytorium dotyczącym kolokwium z języka C#! Tutaj znajdziesz wszystkie informacje i materiały dotyczące tego kolokwium.
+Welcome to the C# colloquium repository! Here you will find all information and materials regarding this colloquium.
 
-## Jak rozpocząć?
-Aby rozpocząć pracę z kolokwium, sklonuj to repozytorium na swoje lokalne urządzenie:
+## How to start?
+To get started with colloquium, clone this repository to your local device:
 
 ```
-git clone https://github.com/twoje-konto/Repozytorium-C#.git
+git clone https://github.com/two-account/Repozytorium-C#.git
 ```
-## Wymagania
-Do rozwiązania zadań kolokwium potrzebujesz zainstalowanego środowiska programistycznego C#, na przykład Visual Studio lub Visual Studio Code, oraz .NET SDK.
+## Requirements
+To solve the test tasks, you need an installed C# programming environment, for example Visual Studio or Visual Studio Code, and .NET SDK.
 
-## Rozwiązywanie zadań
-Każde zadanie znajdziesz w odpowiednich folderach oznaczonych jako zadanie1, zadanie2, itd. Wejdź do odpowiedniego folderu i zapoznaj się z poleceniem w pliku README.md. Rozwiązanie powinno znajdować się w folderze z kodem źródłowym.
+## Solving tasks
+You will find each task in the appropriate folders marked as task1, task2, etc. Go to the appropriate folder and read the command in the README.md file. The solution should be in the source code folder.
 
-## Udostępnianie rozwiązań
-Po rozwiązaniu zadań możesz je udostępnić na swoim koncie GitHub i dodać odpowiednie linki do rozwiązań w spisie treści w tym pliku README.md.
+## Sharing solutions
+Once you have solved the tasks, you can share them on your GitHub account and add the appropriate links to the solutions in the table of contents in this README.md file.
 
-## Kontakt
-Jeśli masz jakiekolwiek pytania dotyczące kolokwium lub napotkasz problemy, skontaktuj się ze mną poprzez adres e-mail.
+## Contact
+If you have any questions about the colloquium or encounter problems, please contact me via email.
 
-Powodzenia z kolokwium! 🚀
+Good luck with your colloquium! 🚀
 
-Ten przykład zawiera spis treści z linkami do odpowiednich zadań, jak rozpocząć pracę z kolokwium, wymagania, informacje o rozwiązywaniu zadań i kontakt z autorem kolokwium. Możesz dostosować ten szablon do swoich potrzeb i dodać więcej informacji, jeśli to konieczne.
+This example includes a table of contents with links to relevant tasks, how to start working on the test, requirements, information on solving the tasks, and contact with the test author. You can customize this template to suit your needs and add more information if necessary.
