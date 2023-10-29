@@ -1,33 +1,32 @@
-# Kursy C#
+# C# courses
 
-Witaj w repozytorium kursów C#, które zawiera zasoby edukacyjne, materiały dydaktyczne i przykłady kodu związane z językiem programowania C#. Repozytorium to zostało stworzone, aby dostarczyć kompleksowe i interaktywne kursy C#, które pomogą Ci opanować ten język programowania.
+Welcome to the C# course repository, which contains educational resources, teaching materials, and code examples related to the C# programming language. This repository was created to provide comprehensive and interactive C# courses that will help you master this programming language.
 
-## O kursach
+## About courses
 
-Repozytorium zawiera różnorodne kursy związane z językiem C#. Każdy kurs jest zaprojektowany w sposób przystępny i zrozumiały dla początkujących, ale także oferuje zaawansowane zagadnienia dla bardziej doświadczonych programistów.
+The repository contains a variety of C#-related courses. Each course is designed to be accessible and understandable for beginners, but also offers advanced topics for more experienced programmers.
 
-Kursy obejmują różne tematy, takie jak:
+The courses cover a variety of topics such as:
 
-- Podstawy języka C#: Poznanie składni, typów danych, instrukcji warunkowych, pętli, funkcji, kolekcji i innych podstawowych elementów języka C#.
-- Programowanie obiektowe: Zrozumienie koncepcji programowania obiektowego, takich jak klasy, dziedziczenie, polimorfizm, hermetyzacja i abstrakcja.
-- Aplikacje desktopowe: Tworzenie aplikacji okienkowych z interfejsem użytkownika, obsługa zdarzeń, zarządzanie danymi, korzystanie z bibliotek graficznych.
-- Aplikacje webowe: Tworzenie aplikacji internetowych, obsługa żądań HTTP, korzystanie z frameworków webowych, zarządzanie bazami danych.
-- Programowanie baz danych: Praca z bazami danych, tworzenie zapytań SQL, mapowanie obiektowo-relacyjne (ORM), integracja z aplikacjami C#.
-- Testowanie i debugowanie: Techniki testowania kodu, rozwiązywanie problemów i debugowanie aplikacji C#.
+- C# Fundamentals: Learn C# syntax, data types, conditionals, loops, functions, collections, and other basic elements.
+- Object-Oriented Programming: Understand object-oriented programming concepts such as classes, inheritance, polymorphism, encapsulation, and abstraction.
+- Desktop applications: Creating window applications with a user interface, event handling, data management, using graphic libraries.
+- Web applications: Creating web applications, handling HTTP requests, using web frameworks, managing databases.
+- Database programming: Working with databases, creating SQL queries, object-relational mapping (ORM), integration with C# applications.
+- Testing and Debugging: Code testing techniques, troubleshooting, and debugging of C# applications.
 
-## Jak korzystać z kursów
+## How to use the courses
 
-Każdy kurs zawiera moduły lub lekcje, które składają się z teoretycznych wykładów, praktycznych przykładów i zadań do wykonania. Możesz przeglądać materiały kursowe, czytać wykłady, analizować kod źródłowy i rozwiązywać zadania, aby zastosować wiedzę w praktyce.
+Each course contains modules or lessons that consist of theoretical lectures, practical examples and tasks to be completed. You can review course materials, read lectures, analyze source code, and solve exercises to put your knowledge into practice.
 
-Kursy są interaktywne, więc zachęcamy do aktywnego uczestnictwa, zadawania pytań i dzielenia się swoimi rozwiązaniami. Możesz również śledzić postępy, oznaczać ukończone moduły i śledzić swoje osiągnięcia.
+The courses are interactive, so we encourage you to actively participate, ask questions and share your solutions. You can also track your progress, mark completed modules and track your achievements.
 
-Repozytorium kursów C# jest doskonałym źródłem wiedzy dla osób, które dopiero zaczynają swoją przygodę z językiem C#, jak i dla tych, którzy chcą pogłębić swoje umiejętności i rozwijać się jako programiści C#.
+The C# course repository is an excellent source of knowledge for people who are just starting their adventure with the C# language, as well as for those who want to deepen their skills and develop as C# programmers.
 
-## Jak przyczynić się do repozytorium
+## How to contribute to the repository
 
-Zapraszamy do współtworzenia repozytorium kursów C#. Jeśli masz pomysły na nowe kursy, sugestie dotyczące poprawy istniejących kursów lub chciałbyś dodać własne materiały edukacyjne, możesz to zrobić poprzez zgłaszanie problemów, tworzenie wniosków o wcielenie zmian lub przesyłanie pull requestów.
+We invite you to contribute to the repository of C# courses. If you have ideas for new courses, suggestions for improving existing courses, or would like to add your own educational materials, you can do so by reporting issues, creating change requests or submitting pull requests.
 
-Wspólne budowanie repozytorium kursów C# pomoże nam stworzyć jeszcze lepsze i bardziej kompleksowe zasoby edukacyjne dla społeczności programistów C#.
+Working together to build a repository of C# courses will help us create even better and more comprehensive learning resources for the C# developer community.
 
-Zapraszamy do nauki, dzielenia się wiedzą i rozwijania swoich umiejętności programowania w języku C#!
-
+We invite you to learn, share your knowledge and develop your programming skills in C#!
