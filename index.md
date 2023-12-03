@@ -31,10 +31,10 @@ redirect_to: cs.dawidolko.pl
 - [Rozwiązanie zadania](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%201/LAB7)
 
 ### Programowanie obiektowe 2:
-[Lab01](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab1) - Lab1
-- [Rozwiązanie zadania](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab1)
+[Lab01](object-oriented%20programming%202/Lab1) - Lab1
+- [Rozwiązanie zadania](object-oriented%20programming%202/Lab1)
   
-[Lab02](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab2) - Lab2
+[Lab02](object-oriented%20programming%202/Lab2) - Lab2
 - [Rozwiązanie zadania](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab2)
   
 [Lab03](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab3) - Lab3
