@@ -1,0 +1,14 @@
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\bin\Debug\net6.0\lekcja38.exe
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\bin\Debug\net6.0\lekcja38.deps.json
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\bin\Debug\net6.0\lekcja38.runtimeconfig.json
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\bin\Debug\net6.0\lekcja38.dll
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\bin\Debug\net6.0\lekcja38.pdb
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\obj\Debug\net6.0\lekcja38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\obj\Debug\net6.0\lekcja38.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\obj\Debug\net6.0\lekcja38.AssemblyInfo.cs
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\obj\Debug\net6.0\lekcja38.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\obj\Debug\net6.0\lekcja38.dll
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\obj\Debug\net6.0\refint\lekcja38.dll
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\obj\Debug\net6.0\lekcja38.pdb
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\obj\Debug\net6.0\lekcja38.genruntimeconfig.cache
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja38\lekcja38\obj\Debug\net6.0\ref\lekcja38.dll

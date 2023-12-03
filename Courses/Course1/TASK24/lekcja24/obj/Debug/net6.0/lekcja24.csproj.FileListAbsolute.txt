@@ -1,0 +1,15 @@
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\bin\Debug\net6.0\lekcja24.exe
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\bin\Debug\net6.0\lekcja24.deps.json
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\bin\Debug\net6.0\lekcja24.runtimeconfig.json
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\bin\Debug\net6.0\lekcja24.dll
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\bin\Debug\net6.0\lekcja24.pdb
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\lekcja24.csproj.AssemblyReference.cache
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\lekcja24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\lekcja24.AssemblyInfoInputs.cache
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\lekcja24.AssemblyInfo.cs
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\lekcja24.csproj.CoreCompileInputs.cache
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\lekcja24.dll
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\refint\lekcja24.dll
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\lekcja24.pdb
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\lekcja24.genruntimeconfig.cache
+C:\Users\micha\Desktop\strona_internetowa\nauka\C#\lekcja24\lekcja24\obj\Debug\net6.0\ref\lekcja24.dll
