@@ -71,7 +71,7 @@ W języku C# możliwe jest dziedziczenie pól i metod z jednej klasy do drugiej.
 
 •	Klasa bazowa (rodzic) - klasa, z której się dziedziczy. 
 
-<br>![lab3](lab3v1.png)
+<br>![lab3](img/lab3v1.png)
 
   Klasa bazowa 	Klasa pochodna 
   ```c#
