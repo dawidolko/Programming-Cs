@@ -9,7 +9,7 @@ redirect_to: cs.dawidolko.pl
 ## Spis treści:
 
 ### Programowanie obiektowe 1:
-[Lab01](object-oriented%20programming%201/Lab1) - Lab1
+[Lab01](object-oriented%20programming%201/LAB1) - Lab1
 - [Rozwiązanie zadania](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%201/LAB1)
   
 [Lab02](object-oriented%20programming%201/LAB2) - Lab2
