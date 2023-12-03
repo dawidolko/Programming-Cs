@@ -18,5 +18,5 @@ In order to implement C# programming issues, you need to install the following c
 
 <br>![labs](images/Install.png)
 
-Informacje dotyczące usługi GitHub dla VS można znaleźć pod adresem (data dostępu 19.09.2023):
+Information about GitHub for VS can be found at (accessed 19/09/2023):
 [link](https://visualstudio.microsoft.com/pl/vs/github/)
