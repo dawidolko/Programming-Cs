@@ -18,7 +18,7 @@ Zasada `"Don't Repeat Yourself"` (DRY) polega na ograniczeniu powtarzalności ko
 
 Czym jest klasa i obiekt 
 
-<br>![lab2](img/lab2v1)
+<br>![lab2](img/lab2v1.png)
   
 ### Definicja klasy: 
 ```c#
