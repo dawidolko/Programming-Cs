@@ -1,0 +1,14 @@
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\bin\Debug\net8.0\LAB4.exe
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\bin\Debug\net8.0\LAB4.deps.json
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\bin\Debug\net8.0\LAB4.runtimeconfig.json
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\bin\Debug\net8.0\LAB4.dll
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\bin\Debug\net8.0\LAB4.pdb
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\obj\Debug\net8.0\LAB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\obj\Debug\net8.0\LAB4.AssemblyInfoInputs.cache
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\obj\Debug\net8.0\LAB4.AssemblyInfo.cs
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\obj\Debug\net8.0\LAB4.csproj.CoreCompileInputs.cache
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\obj\Debug\net8.0\LAB4.dll
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\obj\Debug\net8.0\refint\LAB4.dll
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\obj\Debug\net8.0\LAB4.pdb
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\obj\Debug\net8.0\LAB4.genruntimeconfig.cache
+C:\Users\poczt\Desktop\OneDrive - Uniwersytet Rzeszowski\Studia Dawida\.STUDIA\III SEMESTR\Programowanie obiektowe 2 (PO)\C#-LABS\LAB4\LAB4\obj\Debug\net8.0\ref\LAB4.dll
