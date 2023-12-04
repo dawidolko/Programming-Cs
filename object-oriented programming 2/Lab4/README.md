@@ -105,24 +105,17 @@ Przeciążanie operatorów
 
 C# pozwala na zmianę lub przeciążenie większości wbudowanych operatorów. Programista może używać operatorów z typami zdefiniowanymi również przez użytkownika. Przeciążone operatory to metody z nazwą, słowem kluczowym operator, po którym występuje symbol operatora, który chcemy zdefiniować. Przeciążony operator ma typ zwracany oraz listę parametrów. Operatory przeciążalne i nieprzeciążalne 
 
-```markdown
+
+
+
 | Operator | Opis |
-|----------|------|
+| --- | --- |
 | +, -, !, ~, ++, -- | operatory jednoargumentowe mogą zostać przeciążone |
 | +, -, *, /, % | operatory binarne mogą zostać przeciążone |
 | ==, !=, <, >, <=, >= | operatory porównania mogą zostać przeciążone |
 | &&, \|\| | operatory operacji logicznych nie mogą być przeciążone bezpośrednio |
 | +=, -=, *=, /=, %= | operatory przypisania nie mogą być przeciążone |
 | =, ?, :, ->, new, is, sizeof, typeof | te operatory nie mogą być przeciążone |
-```
-
-Operator 	Opis 
-`+`, `-`, `!`, `~`, `++`, `--` 	operatory jednoargumentowe mogą zostać przeciążone 
-`+`, `-`, `*`, `/`, `%` 	operatory binarne mogą zostać przeciążone 
-`==`, `!=`, `<`,`>`, `<=`, `>=` 	operatory porównania mogą zostać przeciążone 
-`&&`, `||` 	operatory operacji logicznych nie mogą być przeciążone bezpośrednio 
-`+=`, `-=`, `*=`, `/=`, `%=` 	operatory przypisania nie mogą być przeciążone 
-`=`, `.`, `?:`, `->`, `new`, `is`, `sizeof`, `typeof` 	te operatory nie mogą być przeciążone 
 
 ```c# 
 // ========= Main =========================== 
