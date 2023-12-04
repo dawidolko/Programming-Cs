@@ -37,8 +37,11 @@ redirect_to: cs.dawidolko.pl
 [Lab02](object-oriented%20programming%202/Lab2) - Lab2
 - [Rozwiązanie zadania](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab2)
   
-[Lab03](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab3) - Lab3
+[Lab03](object-oriented%20programming%202/Lab3) - Lab3
 - [Rozwiązanie zadania](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab3)
+
+[Lab04](object-oriented%20programming%202/Lab4) - Lab4
+- [Rozwiązanie zadania](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab4)
   
 
 ### Projekty:
