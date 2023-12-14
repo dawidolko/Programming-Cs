@@ -137,7 +137,7 @@ Kolekcja `Queue` działa według mechanizmu `FIFO`. Elementy dodawane do kolejki
 Więcej 	informacji 	na 	temat 	kolekcji 	Queue: 	[link](http://msdn.microsoft.com/plpl/library/system.collections.queue.aspx) 
 
 ### Kolekcja Stack - Stos 
-Kolekcja `Stack` działa według mechanizmu LIFO. Elementy zarówno dodawane jak i pobierane są ze spodu stosu. Ostatnio dodany element będzie pierwszym elementem do pobrania ze stosu. Za pomocą metody Push() dodajemy elementy do stosu, natomiast za pomocą metody Pop() wyciągamy elementy ze stosu. Więcej informacji na temat kolekcji Stack: http://msdn.microsoft.com/plpl/library/system.collections.stack.aspx  
+Kolekcja `Stack` działa według mechanizmu LIFO. Elementy zarówno dodawane jak i pobierane są ze spodu stosu. Ostatnio dodany element będzie pierwszym elementem do pobrania ze stosu. Za pomocą metody Push() dodajemy elementy do stosu, natomiast za pomocą metody Pop() wyciągamy elementy ze stosu. Więcej informacji na temat kolekcji Stack: [link](http://msdn.microsoft.com/plpl/library/system.collections.stack.aspx)
  
  	 
 ## Zadania do samodzielnego rozwiązania 
