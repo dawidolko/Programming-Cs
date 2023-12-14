@@ -202,11 +202,15 @@ Zaproponuj konsolową aplikację z wykorzystaniem technik programowania obiektow
 2.	Lista ma posiadać strukturę odpowiadającą diagramowi klas zgodnie z poniższym rysunkiem. 
 
 Wskazówka znajduje się w załączniku 1. 
+
+<br>![lab4](img/lab5v1.png)
   
 3.	Utworzyć kod testujący kolejki przechowującej obiekty typu int, który między innymi wypisze listę liczb parzystych. 
  	 
 Wskazówka: 
 Przykładowy kod realizujący strukturę listy przedstawiono na poniższym listingu: 
+
+<br>![lab4](img/lab5v2.png)
   
 •	MyList<T> jest klasą generyczną tzn. Obiekt naszej listy może przechowywać dowolny typ obiektu zdefiniowany (nazwa powiązanej klasy pod literką T) w trakcie tworzenia instancji naszej klasy. 
 
@@ -218,3 +222,4 @@ Przykładowy kod realizujący strukturę listy przedstawiono na poniższym listi
 
 W tej formie klasa oferuje nam jedynie możliwość dodawania i odwoływania się do elementu po indeksie. 
   
+<br>![lab4](img/lab5v3.png)
