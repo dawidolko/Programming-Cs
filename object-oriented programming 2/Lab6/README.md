@@ -314,7 +314,7 @@ Gdzie SampleDB to nazwa utworzonej bazy danych.
  	  
 ## Zadania do samodzielnego rozwiązania 
 
-### [Zadanie 1.]()
+### [Zadanie 1.](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab6/Lab6/TASK1)
 W oparciu o Przykład 1 należy zaprojektować aplikację konsolową zgodnie z poniższymi wymaganiami:  
 Napisz program który zaprezentuje działania związane z zapisem, odczytem, modyfikacją oraz usunięciem danych przechowywyanych w pliku csv. Program ma przechowywać informacje o osobie: String imie, nazwisko, adres – typu Adres, pesel (pole posiadające ograniczenie do 11 znaków), adres e-mail. 
 Pogram ma być czytelny dla użytkownika, po uruchomieniu powinno pojawić się menu główne w którym użytkownik będzie mógł wybrać opcje: 
@@ -336,4 +336,4 @@ Program działa do momentu wybrania Wyjście z programu
 W programie każdorazowe zmiany mają być zapisane w CSV.  
 Program powinien być napisany zgodnie z ideą programowania obiektowego oraz powinien przechwycić wyjątki. 
 
-### [Zadanie 2.]() Zmodyfikuj zadanie 1 w taki sposób aby dane zapisywane były w bazie danych SQL. 
+### [Zadanie 2.](https://github.com/dawidolko/Programming-Cs/tree/main/object-oriented%20programming%202/Lab6/Lab6/TASK2) Zmodyfikuj zadanie 1 w taki sposób aby dane zapisywane były w bazie danych SQL. 
