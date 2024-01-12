@@ -1,0 +1,17 @@
+C:\Users\ezesl\source\repos\ExampleCSV\bin\Debug\net8.0\ExampleCSV.exe
+C:\Users\ezesl\source\repos\ExampleCSV\bin\Debug\net8.0\ExampleCSV.deps.json
+C:\Users\ezesl\source\repos\ExampleCSV\bin\Debug\net8.0\ExampleCSV.runtimeconfig.json
+C:\Users\ezesl\source\repos\ExampleCSV\bin\Debug\net8.0\ExampleCSV.dll
+C:\Users\ezesl\source\repos\ExampleCSV\bin\Debug\net8.0\ExampleCSV.pdb
+C:\Users\ezesl\source\repos\ExampleCSV\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ExampleCSV.csproj.AssemblyReference.cache
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ExampleCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ExampleCSV.AssemblyInfoInputs.cache
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ExampleCSV.AssemblyInfo.cs
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ExampleCSV.csproj.CoreCompileInputs.cache
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ExampleCSV.csproj.CopyComplete
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ExampleCSV.dll
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\refint\ExampleCSV.dll
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ExampleCSV.pdb
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ExampleCSV.genruntimeconfig.cache
+C:\Users\ezesl\source\repos\ExampleCSV\obj\Debug\net8.0\ref\ExampleCSV.dll
